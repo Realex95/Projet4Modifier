@@ -1041,4 +1041,22 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+    .text-normal h2{
+        margin-left: 0 !important;
+        margin-right: 0 !important; 
+    }
+}
+
+.text-normal h2{
+    margin-left: 21rem;
+    margin-right: 21rem;
+    text-align: center;
+}
+
+.text-italic h2{
+    margin: 0 40px 0 40px;
+}
+
+.text-fondateur p{
+    color: lightgrey;
 }
