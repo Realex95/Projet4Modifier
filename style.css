@@ -281,8 +281,6 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
-    width: 9rem;
-    float: left;
 }
 
 #bloc-1-hero h1 {
@@ -795,7 +793,7 @@ h4 {
 }
 
 .ltc-white:hover {
-    color: #FFFFFF!important;
+    color: #cccccc!important;
 }
 
 .ltc-atomic-tangerine {
@@ -976,8 +974,8 @@ h4 {
         margin-left: 10px;
     }
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .bloc-xxl,
     .bloc-xl,
@@ -1032,9 +1030,11 @@ h4 {
 
 @media (max-width: 400px) {
     .bloc {
-        padding-left: 0;
-        padding-right: 0;
+        padding-left: 20px;
+        padding-right: 20px;
     }
+
+    
 }
 
 @media (max-width: 767px) {
