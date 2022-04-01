@@ -1436,10 +1436,9 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: flex;
-    max-width: 50%;
+    max-width: 100%;
     align-items: center;
-    height: 50%;
-    align-items: center;
+    height: auto;
 }
 
 .img-rounded {
