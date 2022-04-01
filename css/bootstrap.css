@@ -1437,7 +1437,6 @@ img {
 .thumbnail>img {
     display: flex;
     max-width: 100%;
-    align-items: center;
     height: auto;
 }
 
