@@ -1435,9 +1435,11 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
-    display: block;
-    max-width: 100%;
-    height: auto
+    display: flex;
+    max-width: 50%;
+    align-items: center;
+    height: 50%;
+    align-items: center;
 }
 
 .img-rounded {

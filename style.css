@@ -1057,6 +1057,8 @@ h4 {
         align-items: flex-start;
         align-content: flex-start;
     }
+
+    
 }
 
 .text-italic h2{
@@ -1086,3 +1088,4 @@ h4 {
 .col-sm-4{
     padding-top: 20px;
 }
+
