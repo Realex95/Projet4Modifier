@@ -1,1 +1,2 @@
 <a href="https://snyk.io/test/npm/bootstrap/5.1.3"><img src="https://snyk.io/test/npm/bootstrap/5.1.3/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/bootstrap/5.1.3" style="max-width:100%;"></a>
+<a href="https://snyk.io/test/npm/jquery/3.6.0"><img src="https://snyk.io/test/npm/jquery/3.6.0/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/npm/jquery/3.6.0" style="max-width:100%;"></a>
